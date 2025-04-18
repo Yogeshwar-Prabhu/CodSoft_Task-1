@@ -17,4 +17,4 @@ This is a simple **To-Do List Application** developed using Python. It helps use
 1. Make sure Python is installed on your system.
 2. Clone the repository:
    ```bash
-   git clone https://github.com/Yogeshwar-Prabhu/CodSoft_Task-1/ToDo-List
+   git clone https://github.com/Yogeshwar-Prabhu/CodSoft_Task-1/tree/main
